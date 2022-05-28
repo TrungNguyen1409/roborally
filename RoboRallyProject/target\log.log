@@ -1,0 +1,12 @@
+Jan 29, 2022 2:54:15 AM robo.roborallyproject.server.connection.RoboLogger addLogInfo
+INFO: Server has started...
+
+Jan 29, 2022 2:54:26 AM robo.roborallyproject.server.connection.RoboLogger addLogInfo
+INFO: Phase: 0
+
+Jan 29, 2022 2:54:41 AM robo.roborallyproject.server.connection.RoboLogger addLogInfo
+INFO: Phase: 1
+
+Jan 29, 2022 2:54:41 AM robo.roborallyproject.server.connection.RoboLogger addLogInfo
+INFO: Cards for Shop Server:[AdminPrivilege, RearLaser]
+

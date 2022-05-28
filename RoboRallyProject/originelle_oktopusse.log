@@ -1,0 +1,27 @@
+Feb 08, 2022 8:08:43 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Server has started...
+
+Feb 08, 2022 8:09:09 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 0
+
+Feb 08, 2022 8:09:23 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 1
+
+Feb 08, 2022 8:09:23 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Cards for Shop Server:[AdminPrivilege, RearLaser]
+
+Feb 08, 2022 8:09:52 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 2
+
+Feb 08, 2022 8:09:55 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 3
+
+Feb 08, 2022 8:10:01 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: 1: Wall is blocking
+
+Feb 08, 2022 8:10:07 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: 1: Wall is blocking
+
+Feb 08, 2022 8:10:27 PM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 1
+
