@@ -1,0 +1,35 @@
+Feb. 11, 2022 10:05:27 AM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Server has started...
+
+Feb. 11, 2022 10:05:39 AM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 0
+
+Feb. 11, 2022 10:05:49 AM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 1
+
+Feb. 11, 2022 10:05:49 AM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Cards for Shop Server:[EnergyRoutine, SpeedRoutine]
+
+Feb. 11, 2022 10:05:50 AM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: SERVER: Player 2 now owns: [robo.roborallyproject.gameElements.upgradeCards.SpeedRoutine@6339c854]
+
+Feb. 11, 2022 10:05:51 AM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 2
+
+Feb. 11, 2022 10:05:53 AM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: Phase: 3
+
+Feb. 11, 2022 10:06:03 AM robo.roborallyproject.server.connection.RoboLogger logWarning
+WARNING: Server 1 received a null message.
+
+Feb. 11, 2022 10:06:03 AM robo.roborallyproject.server.connection.RoboLogger logInfo
+INFO: SERVER: closed 1
+
+Feb. 11, 2022 10:06:03 AM robo.roborallyproject.server.connection.RoboLogger logWarning
+WARNING: 1 / CLIENT: something wrong here!
+Socket closed
+
+Feb. 11, 2022 10:06:03 AM robo.roborallyproject.server.connection.RoboLogger logWarning
+WARNING: 1 / CLIENT: something wrong here!
+Socket closed
+
